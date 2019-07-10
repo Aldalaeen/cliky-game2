@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Mercedes",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/c+class.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Audi",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/2019-audi-a6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Land-cruiser",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/toyota-land-cruiser-lwb.jpg"
+  },
+  {
+    "id": 4,
+    "name": "evo",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/evo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "GMC",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/Sierra-1500.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Honda",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/Honda.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Range",
+    "clicked": false,
+    "image":
+      "https://yousef1971.s3-us-west-1.amazonaws.com/range.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0015/7847/brand.gif?itok=LsN3DWaP"
+  },
+  {
+    "id": 9,
+    "name": "Pinterest",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062012/pinterest_favicon-01.png?itok=q2_kRck8"
+  },
+  {
+    "id": 10,
+    "name": "NBC",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082011/nbc.ai_.png?itok=LHcc4wxh"
+  },
+  {
+    "id": 11,
+    "name": "Twitter",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/twitterlogo_55acee_1.png?itok=ftqKh6Sf"
+  },
+  {
+    "id": 12,
+    "name": "WWF",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/0698/brand.gif?itok=AOXU7GgP"
+  },
+  {
+    "id": 13,
+    "name": "Intel",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/122015/untitled-1_116.png?itok=iZDte5dF"
+  },
+  {
+    "id": 14,
+    "name": "Sony",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/sony.png?itok=Y-UxCzO-"
+  },
+  {
+    "id": 15,
+    "name": "Ebay",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102015/ebay_logo.png?itok=Aa4oyEhj"
+  },
+  {
+    "id": 16,
+    "name": "WhatsApp",
+    "clicked": false,
+    "image":
+      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/whatsapp.jpg?itok=dTlsxLl4"
+  }
+]
+
