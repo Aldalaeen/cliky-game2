@@ -50,66 +50,60 @@
   },
   {
     "id": 8,
-    "name": "Apple",
+    "name": "Hyondai",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0015/7847/brand.gif?itok=LsN3DWaP"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/Hyondai.jpg"
   },
   {
     "id": 9,
-    "name": "Pinterest",
+    "name": "Seat",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062012/pinterest_favicon-01.png?itok=q2_kRck8"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/Seat.jpg"
   },
   {
     "id": 10,
-    "name": "NBC",
+    "name": "chevrolet",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082011/nbc.ai_.png?itok=LHcc4wxh"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/chevrolet.jpg"
   },
   {
     "id": 11,
-    "name": "Twitter",
+    "name": "Nissan",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/072015/twitterlogo_55acee_1.png?itok=ftqKh6Sf"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/nissan.jpg"
   },
   {
     "id": 12,
-    "name": "WWF",
+    "name": "stout",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0004/0698/brand.gif?itok=AOXU7GgP"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/sout.jpg"
   },
   {
     "id": 13,
-    "name": "Intel",
+    "name": "subaro",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/122015/untitled-1_116.png?itok=iZDte5dF"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/subaro.jpg"
   },
   {
     "id": 14,
-    "name": "Sony",
+    "name": "alfa",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/sony.png?itok=Y-UxCzO-"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/alfa+romeo.jpg"
   },
   {
     "id": 15,
-    "name": "Ebay",
+    "name": "KIA",
     "clicked": false,
     "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102015/ebay_logo.png?itok=Aa4oyEhj"
-  },
-  {
-    "id": 16,
-    "name": "WhatsApp",
-    "clicked": false,
-    "image":
-      "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032015/whatsapp.jpg?itok=dTlsxLl4"
+      "https://yousef1971.s3-us-west-1.amazonaws.com/KIA.jpg"
   }
+  
 ]
 
